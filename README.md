@@ -6,8 +6,6 @@ Presentations about data science.
 
 - [Lemons: Predicting whether a Vehicle will be kicked back to the auction](https://github.com/ExtraLime/lemons) by Will Morgan. 
 
-
-
 - [Predicting the success of cyber-related terrorist attacks](https://github.com/Begecky/Thinkful_Materials/tree/master/Unit_3_Capstone) by Rebecca Green.
 
 - [Breast cancer survivor models](https://github.com/richardgorham1/ds-supervised-learning-capstone-lite) by Rich Gohram.    
@@ -19,6 +17,9 @@ Presentations about data science.
 - [Santander Bank Customer Transaction Prediction](https://github.com/etterfred/Thinkful/blob/master/Santander_Bank_supervised_learning_capstone.ipynb) by Fred Etter.  Bank Santander is trying to predict if a customer will make a specific transaction in the future.  Ananomyzed data was presented to Kaggle with 200,000 rows and 200 columns.  Multiple supervised learning algorithms were tested and evaluated to determine the best method and produce an accuracy metric.
 
 - [Safe Driver Prediction for Automobile Insurance](https://github.com/mu-mandayam/DataScience/blob/master/Supervised_Learning_Capstone/Sup_Learning_Capstone_Safe_Driver.ipynb) by Murali Mandayam. Correctly classifying a driver during underwriting is an important aspect in automobile insurance. All the supervised learning algorithms I used classify a driver as a 1, to indicate safe driver, or 0, to indicate that the drivers' information needs a review prior to issuing a policy.
+
+- [Telecom Customer Churn]
+(https://github.com/serfsup/thinkful-supervised-learning-capstone) by Dan McHenry. Telecom company attempts to predict when a given customer will churn (leave for a different provider) in order to intervene with incentives. Dataset was taken from Kaggle.
 
 ## Unsupervised learning report
 
